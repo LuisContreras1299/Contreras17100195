@@ -1,7 +1,7 @@
-package hilos;
+package HilosT;
 
-public class Run implements Runnable{
-	@Override
+public class Run {
+	
 	public void run() {
 		for(int x=0;x<10;x++) {
 		String nombreHilo = Thread.currentThread().getName();

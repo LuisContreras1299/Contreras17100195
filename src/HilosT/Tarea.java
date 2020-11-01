@@ -1,6 +1,6 @@
-package hilos;
+package HilosT;
 
-public class tarea {
+public class Tarea {
 	public static void main(String args[])
 	{
 		Run trabajoHilo= new Run();
